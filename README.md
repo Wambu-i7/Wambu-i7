@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Wambu-i7
+- 👋 Hi, I’m Rose Wambui.
 - 👀 I’m interested in Creativity and development
 - 🌱 I’m currently learning Full stack web development at ALX
 - 💞️ I’m looking to collaborate on anything that is creative and makes the world easier to handle.
-- 📫 How to reach me at my social platforms
-- 😄 Pronouns: ...
+- 📫 How to reach me at my social platforms: Facebook: Wambui Ndikiru
+- 😄 Hobbies include DIY, reading a lot of books and drawing.
 - ⚡ Fun fact: Coding is fun but sometimes can be a pain in the neck.
 
 <!---
