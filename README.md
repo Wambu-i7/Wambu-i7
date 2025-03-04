@@ -3,7 +3,8 @@
 - 🌱 Full stack developer specialised in Frontend development.
 - 💞️ Tech girly.
 - 😄 Hobbies are coding and Reading.
-- ⚡ Fun fact: Coding makes my life beautiful.
+-  👩‍💻 Fun fact: I code while juggling mom life – sometimes debugging and diaper duty happen at the same time! 😆
+
 - ## 💻 Languages & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
