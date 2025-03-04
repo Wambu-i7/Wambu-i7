@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
 </p>
+- ## 📊 GitHub Stats  
+![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wambu-i7&show_icons=true&theme=radical)  
 
 
 
