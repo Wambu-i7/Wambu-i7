@@ -4,6 +4,12 @@
 - 💞️ Tech girly.
 - 😄 Hobbies are coding and Reading.
 - ⚡ Fun fact: Coding makes my life beautiful.
+- ## 💻 Languages & Technologies
+- HTML, CSS, JavaScript, React.
+- Python, Flask
+- Devops.
+- Git, GitHub
+
 
 <!---
 Wambu-i7/Wambu-i7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
