@@ -2,7 +2,14 @@
 - 👀 I’m interested in Creativity and development. I love building user-friendly websites and exploring new tech.
 - 🌱 Full stack developer specialised in Frontend development.
 - 💞️ Tech girly.
-- 😄 Hobbies are coding and Reading.
+- ## 🎨 Hobbies & Interests  
+- 👩‍💻 Coding & Web Development  
+- 📖 Reading Tech & Self-Improvement Books  
+- 🎶 Listening to Music  
+- ☕ Coffee Lover  
+- 🌿 Nature Walks  
+- 📝 Blogging & Writing  
+
 -  ## 🎉 Fun Facts  
 🔹 I once spent hours debugging, only to realize I forgot a semicolon! 😆  
 🔹 I talk to my code like it can hear me. Sometimes it even listens! 👀  
