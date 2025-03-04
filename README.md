@@ -32,8 +32,8 @@
   <img src="https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
 </p>
 
-## 📊 GitHub Stats  
-![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wambu-i7&show_icons=true&theme=radical)  
+## 🚀 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wambu-i7&theme=radical)
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wambui%20Ndikiru-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wambui-ndikiru-664045279/) 
