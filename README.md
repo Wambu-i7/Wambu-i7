@@ -14,6 +14,10 @@
 🔹 I once spent hours debugging, only to realize I forgot a semicolon! 😆  
 🔹 I talk to my code like it can hear me. Sometimes it even listens! 👀  
 🔹 I code while juggling mom life – debugging and diaper duty happen at the same time! 🤹‍♀️  
+## 📚 Currently Learning  
+-🔹 React & Modern JavaScript  
+-🔹 DevOps & Deployment Strategies  
+-🔹 Building Scalable Web Apps  
 
 ## 💻 Languages & Technologies
 <p align="left">
@@ -27,10 +31,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
 </p>
-## 📚 Currently Learning  
--🔹 React & Modern JavaScript  
--🔹 DevOps & Deployment Strategies  
--🔹 Building Scalable Web Apps  
 
 ## 📊 GitHub Stats  
 ![Rose's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wambu-i7&theme=radical)  
