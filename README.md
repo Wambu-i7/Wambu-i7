@@ -23,8 +23,8 @@
 - ## 📊 GitHub Stats  
 ![Rose's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wambu-i7&theme=radical)  
 
--## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+- ## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wambui%20Ndikiru-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wambui-ndikiru-664045279/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Wambu-i7)  
 
 <!---
