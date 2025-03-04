@@ -21,9 +21,7 @@
   <img src="https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
 </p>
 - ## 📊 GitHub Stats  
-![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wambu-i7&show_icons=true&theme=radical)  
-
-
+![Rose's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wambu-i7&theme=radical)  
 
 <!---
 Wambu-i7/Wambu-i7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
