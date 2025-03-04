@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
 </p>
 ## 📚 Currently Learning  
-🔹 React & Modern JavaScript  
-🔹 DevOps & Deployment Strategies  
-🔹 Building Scalable Web Apps  
+-🔹 React & Modern JavaScript  
+-🔹 DevOps & Deployment Strategies  
+-🔹 Building Scalable Web Apps  
 
 ## 📊 GitHub Stats  
 ![Rose's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wambu-i7&theme=radical)  
