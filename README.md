@@ -3,7 +3,10 @@
 - 🌱 Full stack developer specialised in Frontend development.
 - 💞️ Tech girly.
 - 😄 Hobbies are coding and Reading.
--  👩‍💻 Fun fact: I code while juggling mom life – sometimes debugging and diaper duty happen at the same time! 😆
+-  ## 🎉 Fun Facts  
+🔹 I once spent hours debugging, only to realize I forgot a semicolon! 😆  
+🔹 I talk to my code like it can hear me. Sometimes it even listens! 👀  
+🔹 I code while juggling mom life – debugging and diaper duty happen at the same time! 🤹‍♀️  
 
 - ## 💻 Languages & Technologies
 <p align="left">
