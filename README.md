@@ -12,12 +12,12 @@
 
 ## 🎉 Fun Facts  
 🔹 I once spent hours debugging, only to realize I forgot a semicolon! 😆  
-🔹 I talk to my code like it can hear me. Sometimes it even listens! 👀  
+🔹 I talk to my code like it understands me... and sometimes, it does! 👀    
 🔹 I code while juggling mom life – debugging and diaper duty happen at the same time! 🤹‍♀️  
 ## 📚 Currently Learning  
--🔹 React & Modern JavaScript  
--🔹 DevOps & Deployment Strategies  
--🔹 Building Scalable Web Apps  
+🔹 React & Modern JavaScript  
+🔹 DevOps & Deployment Strategies  
+🔹 Building Scalable Web Apps  
 
 ## 💻 Languages & Technologies
 <p align="left">
@@ -33,7 +33,7 @@
 </p>
 
 ## 📊 GitHub Stats  
-![Rose's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wambu-i7&theme=radical)  
+![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wambu-i7&show_icons=true&theme=radical)  
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wambui%20Ndikiru-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wambui-ndikiru-664045279/) 
