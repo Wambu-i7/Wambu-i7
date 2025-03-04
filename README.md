@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rose Wambui.
-- 👀 I’m interested in Creativity and development
+- 👀 I’m interested in Creativity and development. I love building user-friendly websites and exploring new tech.
 - 🌱 Full stack developer specialised in Frontend development.
 - 💞️ Tech girly.
 - 😄 Hobbies are coding and Reading.
