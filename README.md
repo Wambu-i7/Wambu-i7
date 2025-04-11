@@ -1,4 +1,4 @@
-# 👋 **Hi, I’m Rose Wambui** ✨
+👋 **Hi, I’m Rose Wambui** ✨
 
 
 <p align="center">
