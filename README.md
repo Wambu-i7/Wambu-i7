@@ -1,7 +1,7 @@
 👋 Hi, I’m Rose Wambui.
 
 <p align="center">
-  <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-c118-61f7-9793-d9a8fc78881a/raw?se=2025-04-11T07%3A36%3A15Z&sp=r&sv=2024-08-04&sr=b&scid=05d1ec45-0895-54b9-8291-c80e39e7869d&skoid=cbbaa726-4a2e-4147-932c-56e6e553f073&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-11T00%3A39%3A46Z&ske=2025-04-12T00%3A39%3A46Z&sks=b&skv=2024-08-04&sig=pDOhbETR8D3QsgZbSEaBJzmnTf8KYRxS1QL8FucCEE8%3D" width="400" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
 </p>
 - 👀 I’m interested in Creativity and development. I love building user-friendly websites and exploring new tech.
 - 🌱 Full stack developer specialised in Frontend development.
