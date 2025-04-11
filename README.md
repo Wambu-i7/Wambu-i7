@@ -10,6 +10,10 @@
 🌿 Nature Walks  
 📝 Blogging & Writing  
 
+### 💻 Projects
+🌐 [Snug-A-Mom](https://github.com/Wambu-i7/Snug-a-Mom.git) — A mini website where moms connect and support each other through pregnancy, postpartum, and baby care ❤️  
+🌐 More to come... stay tuned!
+
 ## 🎉 Fun Facts  
 🔹 I once spent hours debugging, only to realize I forgot a semicolon! 😆  
 🔹 I talk to my code like it understands me... and sometimes, it does! 👀    
