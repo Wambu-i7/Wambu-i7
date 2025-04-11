@@ -1,4 +1,8 @@
 👋 Hi, I’m Rose Wambui.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding GIF"/>
+</p>
 - 👀 I’m interested in Creativity and development. I love building user-friendly websites and exploring new tech.
 - 🌱 Full stack developer specialised in Frontend development.
 - 💞️ Tech girly.
