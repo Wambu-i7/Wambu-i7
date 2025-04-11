@@ -39,6 +39,8 @@
 ## 🔥 Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wambu-i7&layout=compact&theme=radical)
 
+“Code like a MOM, persistent, and full of love.” 💻💗
+
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wambui%20Ndikiru-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/wambui-ndikiru-664045279/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Wambu-i7)  
