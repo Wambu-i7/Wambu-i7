@@ -15,7 +15,7 @@
 🌐 [My-Portfolio](https://github.com/Wambu-i7/New-Portfolio) - My own Portfolio showcasing my skills.
 
 ## 🎉 Fun Facts  
-🔹 I once spent hours debugging, only to realize I forgot a semicolon! 😆  
+🔹 Code and Cuddles 😆  
 🔹 I talk to my code like it understands me... and sometimes, it does! 👀    
 🔹 I code while juggling mom life – debugging and diaper duty happen at the same time! 🤹‍♀️  
 ## 📚 Currently Learning  
