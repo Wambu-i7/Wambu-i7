@@ -23,7 +23,7 @@
 ## 🎉 Fun Facts  
 🔹 Code and Cuddles 😆  
 🔹 I talk to my code like it understands me... and sometimes, it does! 👀    
-🔹 I code while juggling mom life – debugging and diaper duty happen at the same time! 🤹‍♀️  
+🔹 I code while juggling mom life – debugging and diaper duty happen at the same time! 😆
 ## 📚 Currently Learning  
 🔹 React & Modern JavaScript  
 🔹 DevOps & Deployment Strategies  
