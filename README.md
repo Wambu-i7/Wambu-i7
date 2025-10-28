@@ -18,7 +18,7 @@
 
 ### 💻 Projects
 🌐 [Snug-A-Mom](https://github.com/Wambu-i7/Snug-a-Mom.git) — A mini website where moms connect and support each other through pregnancy, postpartum, and baby care ❤️  
-🌐 [My-Portfolio](https://github.com/Wambu-i7/New-Portfolio) - My own Portfolio showcasing my skills.m
+🌐 [My-Portfolio](https://wambu-i7.github.io/New-Portfolio/)) - My own Portfolio showcasing my skills.m
   
 🌐 [New-Man-Ministries](https://wambu-i7.github.io/New-Man-Ministries/) -  A church website that connect believers all over the world.
 ## 🎉 Fun Facts  
